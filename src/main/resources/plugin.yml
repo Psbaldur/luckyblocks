@@ -1,0 +1,5 @@
+name: Luckyblocks
+version: '${project.version}'
+main: cz.psbaldur.luckyblocks.Main
+api-version: 1.18
+authors: [ Psbaldur ]
